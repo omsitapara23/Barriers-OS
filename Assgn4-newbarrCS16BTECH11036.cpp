@@ -29,6 +29,7 @@ int b;
 
 int barrierVal;
 /*try1 is changing this*/
+/*try2 did this*/
 
 pthread_barrier_t my_barrier;
 
