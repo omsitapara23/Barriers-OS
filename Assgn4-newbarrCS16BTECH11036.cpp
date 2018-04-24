@@ -29,7 +29,7 @@ int b;
 
 int barrierVal;
 /*try1 is changing this*/
-
+/*try1 again changed*/
 pthread_barrier_t my_barrier;
 
 void barrierInit(int N)
